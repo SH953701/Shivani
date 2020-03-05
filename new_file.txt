@@ -1,0 +1,3 @@
+#Start of GIT
+
+This is the first file in git repository.
